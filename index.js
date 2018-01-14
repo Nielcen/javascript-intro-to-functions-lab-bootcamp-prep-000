@@ -31,10 +31,11 @@ mixedCase.toUpperCase() === mixedCase
 function sayHiToGrandma(hello) {
   if(`hello`)
   return "I can't hear you!"
-}
+
 
 function sayHiToGrandma(HELLO) {
   if(`HELLO`)
   return "YES INDEED!"
+}
 
 }
