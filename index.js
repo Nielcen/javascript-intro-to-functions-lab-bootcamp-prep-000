@@ -30,6 +30,6 @@ mixedCase.toUpperCase() === mixedCase
 
 function sayHiToGrandma(string) {
   if(lowercase)
-  console.log("YES, INDEED)
-return "I can't hea youD!"
+  return "I can't hear you!"
 }
+
