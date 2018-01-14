@@ -31,7 +31,7 @@ mixedCase.toUpperCase() === mixedCase
 function sayHiToGrandma(string) {
   if(string.toLowerCase()
   if else(string.toUpperCase())
-  else(console.log(''))
+  else(console.log('YES INDEED'))
   
   
   return "I love you, too"
